@@ -1,27 +1,45 @@
-Endless Runner 2
+# Endless Runner 2
 
-This is a 2D endless runner game made in Unity. The player controls a character that can jump to avoid obstacles while collecting coins. The goal is to survive as long as possible while the game gets harder over time.
+Endless Runner 2 is a 2D endless runner game made in Unity where the player controls a character that must avoid obstacles and survive for as long as possible. The game becomes more difficult over time as obstacles appear faster and gameplay speeds up. Players can also collect coins while trying to achieve a high score.
 
-Features:
+## Features
 
-Player can jump using the space bar
+* Player movement and jumping controls
+* Obstacles that automatically spawn and move toward the player
+* Increasing difficulty over time
+* Multiple obstacle types
+* Collectible coins
+* Basic player animations
+* Simple UI and score system
 
-Obstacles spawn automatically and move toward the player
+## How to Play
 
-Difficulty increases the longer you survive
+Press the space bar to jump over obstacles. Avoid crashing into obstacles while collecting coins and surviving as long as possible. The longer you survive, the faster and more challenging the game becomes.
 
-Multiple obstacle types
+## Development
 
-Coins that can be collected
+This project was created in Unity as part of a game development course. The goal of the project was to create a complete playable game while learning Unity, scripting, game mechanics, and level design. During development, I learned how to work with player movement, obstacle spawning, animations, collision systems, and debugging gameplay issues.
 
-Basic animations for the player
+## Challenges
 
-How to Play:
-Press the space bar to jump. Avoid obstacles and collect coins to keep going as long as possible.
+One of the biggest challenges during development was creating a smooth jumping mechanic. At first the jump felt inconsistent and difficult to control, so I spent time adjusting physics values and testing different scripts until the gameplay felt better. Another challenge was balancing the difficulty so the game stayed fun without becoming frustrating too quickly.
 
-Assets:
-Some assets were created by me, and others are simple Unity shapes used for testing and development.
+## Assets
 
-Future Improvements:
-I want to improve the animations, add sound effects, and make the game feel smoother and more polished overall.
+Some assets and sprites were created by me, while others were simple Unity shapes and free assets used for testing and development purposes.
 
+## Future Improvements
+
+In the future, I would like to:
+
+* Add more animations and visual effects
+* Improve sound effects and background music
+* Add more obstacle variety and power-ups
+* Improve the menus and UI
+* Make the gameplay feel smoother and more polished overall
+
+## Built With
+
+* Unity
+* C#
+* Visual Studio Code
